@@ -7,3 +7,5 @@ GitHub is a cloud-based platform for hosting code.  It is an industry standard t
 A Git repository (or repo) is essentially a folder for code, where you can collaborate manage version history. It will often also include instructions.  
 
 Each assignment in this class links to a different GitHub repo. 
+
+[-> Python](/about-100/06_python.md)
