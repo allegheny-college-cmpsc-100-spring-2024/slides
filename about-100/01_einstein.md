@@ -1,4 +1,4 @@
-# Stick with it!
+# Stay with the problems! 
 
 ![Alt text](image.png)
 

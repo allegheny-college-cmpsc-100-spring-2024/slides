@@ -1,0 +1,1 @@
+[next: trinket.md](about-100/blob/main/08_trinket.md)

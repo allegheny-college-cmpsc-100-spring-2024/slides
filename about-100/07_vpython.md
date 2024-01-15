@@ -1,0 +1,1 @@
+[next: python.md](about-100/blob/main/06_python.md)
