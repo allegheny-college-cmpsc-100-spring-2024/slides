@@ -1,6 +1,6 @@
 # GitHub
 
-![Alt text](image-2.png)
+<img src = "image-1.png" width = "300px" />
 
 GitHub is a cloud-based platform for hosting code.  It is an industry standard tool and knowing it unlocks countless doors. 
 
