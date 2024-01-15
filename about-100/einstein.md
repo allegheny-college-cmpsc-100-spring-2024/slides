@@ -1,0 +1,3 @@
+`<img style="float: right;" src="image.png">`
+
+> “It’s not that I’m so smart, it’s just that I stay with problems longer.” – Albert Einstein
