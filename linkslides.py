@@ -1,5 +1,5 @@
 import os
-
+import shutil
 # needs more
 def rename(files):
 #if number in format 1-9, add a 0 to the front
@@ -22,8 +22,15 @@ def update_readme(topic, folder):
     file.write(txt)
 
 def linkslides(folder):
+    tmp = f"{folder}/temp"
+    try:
+        shutil.rmtree(tmp)
+    except:
+        pass
+    # copy contents of folder to a subfolder called temp
+    shutil.copytree(folder, tmp)
     # for each numbered markdown file in the folder
-    for file in sorted(os.listdir(folder), reverse = True):
+    for file in sorted(os.listdir(tmp), reverse = True):
         if file.endswith(".md") and file[0].isdigit():
             # get the file number
             number = file.split("_")[0]
@@ -32,16 +39,17 @@ def linkslides(folder):
             # get the file title
             title = file.split("_")[1]
             # get the file path
-            path = os.path.join(folder, file)
+            path = os.path.join(tmp, file)
             if number == "10":
                 link = ""
             wfile = open(path, "a")
             wfile.write(link)
             # get the file link
-            link = f"\n[next: {title}](/{file})"
+            link = f"\n\n[-> {title.split('.')[0].capitalize()}](/{folder}/{file})"
             # if not the first file, append the previous file link
             
             print(link)
 
 if __name__ == "__main__":
-    update_readme("About this Course", "about-100")
+    #update_readme("About this Course", "about-100")
+    linkslides("about-100")
