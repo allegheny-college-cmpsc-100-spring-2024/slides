@@ -9,13 +9,16 @@ def rename(files):
     os.rename(os.path.join(folder, file), os.path.join(folder, number + "_" + file.split("_")[1]))
 
 def update_readme(topic, folder):
-    txt = f"## {topic} \n"
+    txt = f"## {topic} \n\n"
     for file in sorted(os.listdir(folder)):
         if file.endswith(".md") and file[0].isdigit():
             number = file.split("_")[0]
+            number = int(number)
             title = file.split("_")[1]
-            txt += f"- [{number}: {title}](/{folder}/{file})\n"
-    file = open(os.path.join(folder, "README.md"), "a")
+            title = title.split(".")[0]
+            title = title.capitalize()
+            txt += f"{number}. [{title}](/{folder}/{file})\n"
+    file = open("README.md", "a")
     file.write(txt)
 
 def linkslides(folder):
