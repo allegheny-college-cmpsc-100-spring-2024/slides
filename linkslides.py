@@ -8,6 +8,16 @@ def rename(files):
     # rename file
     os.rename(os.path.join(folder, file), os.path.join(folder, number + "_" + file.split("_")[1]))
 
+def update_readme(topic, folder):
+    txt = f"## {topic} \n"
+    for file in sorted(os.listdir(folder)):
+        if file.endswith(".md") and file[0].isdigit():
+            number = file.split("_")[0]
+            title = file.split("_")[1]
+            txt += f"- [{number}: {title}](/{folder}/{file})\n"
+    file = open(os.path.join(folder, "README.md"), "a")
+    file.write(txt)
+
 def linkslides(folder):
     # for each numbered markdown file in the folder
     for file in sorted(os.listdir(folder), reverse = True):
@@ -20,14 +30,15 @@ def linkslides(folder):
             title = file.split("_")[1]
             # get the file path
             path = os.path.join(folder, file)
-            # if not the first file, append the previous file link
-            if number != "10":
-                wfile = open(path, "w")
-                wfile.write(link)
-
+            if number == "10":
+                link = ""
+            wfile = open(path, "a")
+            wfile.write(link)
             # get the file link
-            link = f"[next: {title}](/{file})"
+            link = f"\n[next: {title}](/{file})"
+            # if not the first file, append the previous file link
+            
             print(link)
 
 if __name__ == "__main__":
-    linkslides("about-100")
+    update_readme("About this Course", "about-100")

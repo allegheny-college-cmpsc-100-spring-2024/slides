@@ -1,0 +1,11 @@
+## About this Course 
+- [01: einstein.md](/about-100/01_einstein.md)
+- [02: expectations.md](/about-100/02_expectations.md)
+- [03: where.md](/about-100/03_where.md)
+- [04: discord.md](/about-100/04_discord.md)
+- [05: github.md](/about-100/05_github.md)
+- [06: python.md](/about-100/06_python.md)
+- [07: vpython.md](/about-100/07_vpython.md)
+- [08: trinket.md](/about-100/08_trinket.md)
+- [09: markdown.md](/about-100/09_markdown.md)
+- [10: laptop.md](/about-100/10_laptop.md)
