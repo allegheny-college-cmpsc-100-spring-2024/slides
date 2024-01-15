@@ -1,6 +1,6 @@
 # Trinket
 
-![Alt text](image-5.png)
+<img src = "image-5.png" width = "500px" />
 
 Trinket is a browser-based coding platform that we will use in the first half of the semester so that we can code right away without having to install anything.
 
