@@ -1,6 +1,7 @@
 # Lecture Content 
 
 ## About this Course 
+### January 16
 
 1. [Einstein](/about-100/01_einstein.md)
 2. [Expectations](/about-100/02_expectations.md)
