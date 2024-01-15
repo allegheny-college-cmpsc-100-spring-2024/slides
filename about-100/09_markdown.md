@@ -4,4 +4,3 @@ Documents that end with `.md` (like this one!) will render as **markdown**. It i
 
 In this class, you'll be expected to edit markdown files. Instructions will also be provided in this format. 
 
-[next: laptop.md](/10_laptop.md)
