@@ -1,1 +1,5 @@
-[next: github.md](about-100/blob/main/05_github.md)
+# Python
+
+![Alt text](image-3.png)
+
+Python is the programming language we will use in this class. It is known for being readable and versatile: there are many free open-source libraries you can use to extend Python's capabilities. 

@@ -1,1 +1,6 @@
-[next: trinket.md](about-100/blob/main/08_trinket.md)
+# Markdown
+ 
+Documents that end with `.md` (like this one!) will render as **markdown**. It is a lightweight markup system that allows you to format text professionally.
+
+In this class, you'll be expected to edit markdown files. Instructions will also be provided in this format. 
+
