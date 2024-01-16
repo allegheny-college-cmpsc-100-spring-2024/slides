@@ -1,4 +1,6 @@
 # Markdown
+## another header
+### a smaller header
  
 Documents that end with `.md` (like this one!) will render as **markdown**. It is a lightweight markup system that allows you to format text professionally.
 
