@@ -21,5 +21,3 @@ Floats are decimal numerical values. If a variable is assigned number value with
 ```
 f = 5.0
 ```
-
-[-> Number Operations.md]('/variables-data-types-operations/05_numberOperations.md')

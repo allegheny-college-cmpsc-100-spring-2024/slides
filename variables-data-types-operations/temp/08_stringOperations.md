@@ -29,4 +29,5 @@ age = 30
 formatted_text = f"My name is {name} and I am {age} years old."
 # Result will be "My name is Alice and I am 30 years old."
 
-[-> Asterisk StrNum.md]('/variables-data-types-operations/07_asteriskStrNum.md')
+
+[-> Asterisk Strnum.md]('/variables-data-types-operations/09_asteriskStrNum.md')

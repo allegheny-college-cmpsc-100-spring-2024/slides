@@ -14,4 +14,5 @@ result  = "Hey" * 4 # result will be HeyHeyHey
 
 ```
 
-[-> Python Order.md]('/variables-data-types-operations/08_pythonOrder.md')
+
+[-> Python Order.md]('/variables-data-types-operations/10_pythonOrder.md')

@@ -17,7 +17,11 @@ def update_readme(topic, folder):
             number = int(number)
             title = file.split("_")[1]
             title = title.split(".")[0]
-            title = title.capitalize()
+            try:
+                index = re.search('[A-Z]', title).start()
+                title = title[:index].capitalize() + ' ' + title[index:].capitalize()
+            except:
+                title = title.capitalize()
             txt += f"{number}. [{title}](/{folder}/{file})\n"
     file = open("README.md", "a")
     file.write(txt)
@@ -67,5 +71,5 @@ def linkslides(folder):
             print(link)
 
 if __name__ == "__main__":
+    linkslides("variables-data-types-operations")
     update_readme("Variables, Data Types, and Basic Operations", "variables-data-types-operations")
-    #linkslides("variables-data-types-operations")
