@@ -14,3 +14,5 @@ c = "blue"
 sphere(color = c)
 ```
 * You can't start variable names with numbers in Python, and also shouldn't give variables names that already have some function (like int, or in VPython, sphere)
+
+[-> Data Types.md]('/variables-data-types-operations/04_dataTypes.md')

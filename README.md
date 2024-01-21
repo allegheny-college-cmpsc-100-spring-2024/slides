@@ -1,5 +1,17 @@
 # Lecture Content 
 
+## Variables, Data Types, and Basic Operations (Jan 23)
+
+1. [Madlib](/variables-data-types-operations/01_madlib.md)
+2. [Variables](/variables-data-types-operations/02_variables.md)
+3. [Variable Names](/variables-data-types-operations/03_variableNames.md)
+4. [Data Types](/variables-data-types-operations/04_dataTypes.md)
+5. [Number Operations](/variables-data-types-operations/05_numberOperations.md)
+6. [String Operations](/variables-data-types-operations/06_stringOperations.md)
+7. [Number and String Operations cont'd](/variables-data-types-operations/07_asteriskStrNum.md)
+8. [Python Execution Order](/variables-data-types-operations/08_pythonOrder.md)
+
+
 ## About this Course (Jan 16)
 
 ### Slides 
@@ -14,7 +26,6 @@
 8. [Trinket](/about-100/08_trinket.md)
 9. [Markdown](/about-100/09_markdown.md)
 10. [Laptop](/about-100/10_laptop.md)
-
 
 
 
