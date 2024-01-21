@@ -12,4 +12,4 @@ the start and the end of the comment block
 '''
 ```
 
-[-> Madlib.md]('/variables-data-types-operations/03_madlib.md')
+[-> Madlib.md](/variables-data-types-operations/03_madlib.md)

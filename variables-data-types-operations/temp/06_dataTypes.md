@@ -23,4 +23,4 @@ f = 5.0
 ```
 
 
-[-> Number Operations.md]('/variables-data-types-operations/07_numberOperations.md')
+[-> Number Operations.md](/variables-data-types-operations/07_numberOperations.md)

@@ -65,7 +65,7 @@ def linkslides(folder):
 
             
             # get the file link
-            link = f"\n\n[-> {title}]('/{folder}/{file}')"
+            link = f"\n\n[-> {title}](/{folder}/{file})"
             # if not the first file, append the previous file link
             
             print(link)
