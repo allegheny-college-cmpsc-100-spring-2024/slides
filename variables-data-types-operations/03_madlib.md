@@ -1,4 +1,4 @@
-# Find the MadLib exercise links in Discord!
+# Find the MadLib exercise link in Discord!
 
 <img src = "image.png" width = "350px" />
 
