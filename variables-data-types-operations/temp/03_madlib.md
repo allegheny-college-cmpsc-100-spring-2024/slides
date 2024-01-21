@@ -7,4 +7,4 @@ Create a remix of the trinket [linked](https://trinket.io/python/3eaeec768d) in 
 **If you can't see our class Discord channel**, make sure you have signed up for Discord and completed the Course Platforms assignment. E-mail the professor your Discord name so they can add you right away. 
 
 
-[-> Variables.md]('/variables-data-types-operations/04_variables.md')
+[-> Variables.md](/variables-data-types-operations/04_variables.md)
