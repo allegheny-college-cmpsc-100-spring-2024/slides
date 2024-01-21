@@ -9,7 +9,7 @@ result = 3 * 4 # result will by 12
 result = 3 * 4.0 # result will be 12.0
 
 # * with integer and str
-result  = "Hey" * 4 # result will be HeyHeyHey
+result  = "Hey" * 3 # result will be HeyHeyHey
 
 
 ```
