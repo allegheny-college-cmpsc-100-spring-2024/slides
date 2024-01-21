@@ -1,6 +1,7 @@
 # Variables 
 
-![Alt text](image-1.png)
+<img src = "image-1.png" width = "350px" />
+
 
 Variables are containers: they can hold a variety of different values. You could imagine a variable as a tea bag, and its value as the kind of tea the bag holds. You steep different teas the same way, but the flavor depens what's in the teabag. 
 

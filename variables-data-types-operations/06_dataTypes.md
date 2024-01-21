@@ -14,12 +14,17 @@ pet2 = 'cat'
 
 Ints are integer numerical values.  If a variable is assigned number value with no quotes and no decimal point, Python gives it data type `int`.
 
+```
+i = 2
+```
+
+
 ### float
 
 Floats are decimal numerical values. If a variable is assigned number value with no quotes and a decimal point, Python gives it data type `float`. 
 
 ```
-f = 5.0
+f = 5.2
 ```
 
 

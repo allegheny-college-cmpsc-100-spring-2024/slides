@@ -22,12 +22,6 @@ text = "Python"
 substring = text[0:3]  # Result will be "Pyt"
 ```
 
-### String Formatting
-```python
-name = "Alice"
-age = 30
-formatted_text = f"My name is {name} and I am {age} years old."
-# Result will be "My name is Alice and I am 30 years old."
+[-> More Operations.md][def]
 
-
-[-> Asterisk Strnum.md](/variables-data-types-operations/09_asteriskStrNum.md)
+[def]: /variables-data-types-operations/09_asteriskStrNum.md

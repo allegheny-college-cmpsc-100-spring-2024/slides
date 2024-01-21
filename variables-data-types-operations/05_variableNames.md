@@ -1,4 +1,4 @@
-## You can name variables *almost** anything you want!*
+## You can name variables *almost* anything you want!*
 
 It's a good idea to give your variables names that are a happy medium of descriptive and easy to type.
 
@@ -13,7 +13,7 @@ sphere(color = clr)
 c = "blue"
 sphere(color = c)
 ```
-* You can't start variable names with numbers in Python, and also shouldn't give variables names that already have some function (like int, or in VPython, sphere)
+You can't start variable names with numbers in Python, and also shouldn't give variables names that already have some function (like int, or in VPython, sphere)
 
 
 [-> Data Types.md](/variables-data-types-operations/06_dataTypes.md)
