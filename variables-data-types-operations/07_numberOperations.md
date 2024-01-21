@@ -31,3 +31,6 @@ result = 17 % 5  # Result will be 2
 ```python
 result = 2 ** 3  # Result will be 8
 ```
+
+
+[-> String Operations.md](/variables-data-types-operations/08_stringOperations.md)
