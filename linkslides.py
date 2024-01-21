@@ -52,4 +52,4 @@ def linkslides(folder):
 
 if __name__ == "__main__":
     #update_readme("About this Course", "about-100")
-    linkslides("about-100")
+    linkslides("variables-data-types-operations")
