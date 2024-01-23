@@ -15,5 +15,5 @@ The complete output for the above:
 ```
 5
 7
-0
+9
 ```
