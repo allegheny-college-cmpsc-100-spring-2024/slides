@@ -24,3 +24,6 @@ t = pyramid() #draw pyramid
 #color pyramid using converted colors
 t.color = vector(r1, g1, b1)
 ```
+
+
+[-> Color Resources](/vpython-shapes-and-colors/07_colorResources.md)

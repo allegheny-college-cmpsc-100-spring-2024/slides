@@ -9,3 +9,5 @@ For example, the print function requires some text for it to print. So to print 
 ```
 print("Hello world!")
 ```
+
+[\-> VPython Shapes](/vpython-shapes-and-colors/05_vpythonShapes.md)

@@ -46,6 +46,7 @@ def linkslides(folder):
         
             # get the file title
             title = file.split("_")[1]
+            title.split('.')[0]
             # get the file path
             path = os.path.join(tmp, file)
             # get the highest number file in folder
@@ -54,14 +55,14 @@ def linkslides(folder):
             wfile = open(path, "a")
             wfile.write(link)
             # convert title to title case
-            title.split('.')[0]
+            
             # search for first uppercase letter in title
             try:
                 index = re.search('[A-Z]', title).start()
                 title = title[:index].capitalize() + ' ' + title[index:].capitalize()
             except:
                 title = title.capitalize()
-            
+            title = title.split('.')[0]
 
             
             # get the file link
