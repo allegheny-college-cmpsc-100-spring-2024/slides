@@ -13,6 +13,7 @@
 9. [Operations cont'd](/variables-data-types-operations/09_asteriskStrNum.md)
 10. [Python Order](/variables-data-types-operations/10_pythonOrder.md)
 
+Additional Resource: [Getting Started with Python on trinket.io](https://docs.trinket.io/getting-started-with-python#/welcome/where-we-ll-go)
 
 ## About this Course (Jan 16)
 
