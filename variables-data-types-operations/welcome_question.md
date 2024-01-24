@@ -6,5 +6,5 @@ We will go around the room and each person will talk about why the image they se
 
 <img src = "https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/assets/8368413/90b124e5-da6a-40e4-994d-bafd6eaab8d5" width = "600px">
 
-**image by Jeffrey Stuker**
+*image by Jeffrey Stuker*
 
