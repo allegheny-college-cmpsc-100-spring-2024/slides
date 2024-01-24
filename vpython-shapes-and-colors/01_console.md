@@ -1,6 +1,6 @@
 # Console
 
-![](image.png)
+![Alt text](image-7.png)
 
 The console is where you can see the text output of your code.
 

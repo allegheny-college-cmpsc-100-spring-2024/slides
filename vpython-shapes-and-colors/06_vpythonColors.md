@@ -4,7 +4,7 @@ Like VPython coordinates, VPython colors are assignmed using vectors.
 
 Instead of the vector values standing for `(x, y, z)` they stand for `(Red, Green, Blue)`.
 
-Each one has a value between 0 and 1, so pure red woudl be `(1, 0, 0)` and pure blue is `(0, 0, 1)`
+Each one has a value between 0 and 1, so pure red would be `vector(1, 0, 0)` and pure blue is `vector(0, 0, 1)`
 
 You can convert color values from 256 RGB color encoding (easily found online) as follows:
 
