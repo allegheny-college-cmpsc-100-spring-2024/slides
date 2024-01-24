@@ -4,10 +4,10 @@
 
 1.  [Console](/vpython-shapes-and-colors/01_console.md)
 2.  [Errors](/vpython-shapes-and-colors/02_errors.md)
-3.  [Built Inpythonfunctions](/vpython-shapes-and-colors/03_builtInPythonFunctions.md)
+3.  [Built In Python Functions](/vpython-shapes-and-colors/03_builtInPythonFunctions.md)
 4.  [Function Syntax](/vpython-shapes-and-colors/04_functionSyntax.md)
-5.  [Vpython Shapes](/vpython-shapes-and-colors/05_vpythonShapes.md)
-6.  [Vpython Colors](/vpython-shapes-and-colors/06_vpythonColors.md)
+5.  [VPython Shapes](/vpython-shapes-and-colors/05_vpythonShapes.md)
+6.  [VPython Colors](/vpython-shapes-and-colors/06_vpythonColors.md)
 7.  [Color Resources](/vpython-shapes-and-colors/07_colorResources.md)
 
 ## Variables, Data Types, and Basic Operations (Jan 23)
