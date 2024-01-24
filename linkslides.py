@@ -71,5 +71,7 @@ def linkslides(folder):
             print(link)
 
 if __name__ == "__main__":
-    linkslides("variables-data-types-operations")
-    update_readme("Variables, Data Types, and Basic Operations", "variables-data-types-operations")
+    folder = "vpython-shapes-and-colors"
+    header = "VPython Shapes and Colors (Jan 25)"
+    linkslides(folder)
+    update_readme(header, folder)

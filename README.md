@@ -56,3 +56,12 @@ Additional Resource: [Getting Started with Python on trinket.io](https://docs.tr
 8. [String Operations](/variables-data-types-operations/08_stringOperations.md)
 9. [Asterisk Strnum](/variables-data-types-operations/09_asteriskStrNum.md)
 10. [Python Order](/variables-data-types-operations/10_pythonOrder.md)
+## VPython Shapes and Colors (Jan 25) 
+
+1. [Console](/vpython-shapes-and-colors/01_console.md)
+2. [Errors](/vpython-shapes-and-colors/02_errors.md)
+3. [Built Inpythonfunctions](/vpython-shapes-and-colors/03_builtInPythonFunctions.md)
+4. [Function Syntax](/vpython-shapes-and-colors/04_functionSyntax.md)
+5. [Vpython Shapes](/vpython-shapes-and-colors/05_vpythonShapes.md)
+6. [Vpython Colors](/vpython-shapes-and-colors/06_vpythonColors.md)
+7. [Color Resources](/vpython-shapes-and-colors/07_colorResources.md)
