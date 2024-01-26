@@ -10,6 +10,11 @@
 6.  [VPython Colors](/vpython-shapes-and-colors/06_vpythonColors.md)
 7.  [Color Resources](/vpython-shapes-and-colors/07_colorResources.md)
 
+### More Links 
+
+- [Code Demo Trinket](https://trinket.io/glowscript/a280273975)
+- [VPython Documentation](https://www.glowscript.org/docs/VPythonDocs/index.html)
+
 ## Variables, Data Types, and Basic Operations (Jan 23)
 
 1.  [Comments](/variables-data-types-operations/01_comments.md)
