@@ -1,6 +1,6 @@
 # Input Function in Python
 
-Python's `input()` function collects user input. It can assign that input to a variable. The default datatype is **string**. 
+Python's `input()` function collects user input. It can assign that input to a variable. It always returns a **string** value, regardless of input. 
 
 Example:
 
@@ -11,5 +11,3 @@ print("Hello, " + name + "!")
 ```
 
 [Click here](https://trinket.io/glowscript/e907134bd2) for example with VPython shapes and while loops. 
-
-[-> While Loops](/while-loops/06_whileLoops.md)
