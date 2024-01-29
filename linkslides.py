@@ -1,6 +1,7 @@
 import os
 import shutil
 import re
+import sys
 # needs more
 def rename(files):
 #if number in format 1-9, add a 0 to the front
@@ -25,6 +26,21 @@ def update_readme(topic, folder):
             txt += f"{number}. [{title}](/{folder}/{file})\n"
     file = open("README.md", "a")
     file.write(txt)
+
+def unlinkslides(folder):
+    # for each numbered markdown file in the folder
+    # remove the last line
+    for file in sorted(os.listdir(folder), reverse = True):
+        if file.endswith(".md") and file[0].isdigit():
+            # get the file path
+            path = os.path.join(folder, file)
+           
+            file = open(path, "r")
+            lines = file.readlines()
+            lines = lines[:-1]
+            wfile = open(path, "w")
+            wfile.write("\n".join(lines))
+         
 
 def linkslides(folder):
     tmp = f"{folder}/temp"
@@ -72,7 +88,10 @@ def linkslides(folder):
             print(link)
 
 if __name__ == "__main__":
+    
     folder = "while-loops"
     header = "While Loops (Jan 29)"
+    #unlinkslides(folder)
+    #sys.exit()
     linkslides(folder)
     update_readme(header, folder)

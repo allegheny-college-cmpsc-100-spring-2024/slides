@@ -4,10 +4,12 @@
 
 1. [Boolean Expressions](/while-loops/01_booleanExpressions.md)
 2. [Comparison Operators](/while-loops/02_comparisonOperators.md)
-3. [Fear Infinity](/while-loops/03_fearInfinity.md)
-4. [Repeating Shapes](/while-loops/04_repeatingShapes.md)
-5. [Input](/while-loops/05_input.md)
-6. [While Loops](/while-loops/06_whileLoops.md)
+3. [While Loops](/while-loops/03_whileLoops.md)
+4. [Indentation](/while-loops/04_indentation.md)
+5. [Fear Infinity](/while-loops/05_fearInfinity.md)
+6. [Repeating Shapes](/while-loops/06_repeatingShapes.md)
+7. [Input](/while-loops/07_input.md)
+
 
 
 ## VPython Shapes and Colors (Jan 25)
@@ -54,3 +56,4 @@ Additional Resource: [Getting Started with Python on trinket.io](https://docs.tr
 8.  [Trinket](/about-100/08_trinket.md)
 9.  [Markdown](/about-100/09_markdown.md)
 10. [Laptop](/about-100/10_laptop.md)
+
