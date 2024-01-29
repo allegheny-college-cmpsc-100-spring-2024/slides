@@ -10,3 +10,5 @@ i = 5
 while i >= 5:
     i = i + 1
 ```
+
+[-> Repeating Shapes](/while-loops/04_repeatingShapes.md)

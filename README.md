@@ -1,5 +1,15 @@
 # Lecture Content
 
+## While Loops (Jan 29) 
+
+1. [Boolean Expressions](/while-loops/01_booleanExpressions.md)
+2. [Comparison Operators](/while-loops/02_comparisonOperators.md)
+3. [Fear Infinity](/while-loops/03_fearInfinity.md)
+4. [Repeating Shapes](/while-loops/04_repeatingShapes.md)
+5. [Input](/while-loops/05_input.md)
+6. [While Loops](/while-loops/06_whileLoops.md)
+
+
 ## VPython Shapes and Colors (Jan 25)
 
 1.  [Console](/vpython-shapes-and-colors/01_console.md)

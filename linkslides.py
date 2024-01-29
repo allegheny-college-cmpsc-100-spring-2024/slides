@@ -72,7 +72,7 @@ def linkslides(folder):
             print(link)
 
 if __name__ == "__main__":
-    folder = "vpython-shapes-and-colors"
-    header = "VPython Shapes and Colors (Jan 25)"
+    folder = "while-loops"
+    header = "While Loops (Jan 29)"
     linkslides(folder)
     update_readme(header, folder)

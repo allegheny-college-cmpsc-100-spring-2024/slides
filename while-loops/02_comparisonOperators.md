@@ -10,3 +10,6 @@ In programming, comparison operators are used to compare values and return a boo
 - `>=` (greater than or equal to)
 
 These operators are fundamental for creating boolean expressions, which evaluate to either `True` or `False`.
+
+
+[-> Fear Infinity](/while-loops/03_fearInfinity.md)

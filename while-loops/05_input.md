@@ -11,3 +11,5 @@ print("Hello, " + name + "!")
 ```
 
 [Click here](https://trinket.io/glowscript/e907134bd2) for example with VPython shapes and while loops. 
+
+[-> While Loops](/while-loops/06_whileLoops.md)
