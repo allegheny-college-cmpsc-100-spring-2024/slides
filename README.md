@@ -1,6 +1,6 @@
 # Lecture Content
 
-## While Loops (Jan 29) 
+## While Loops (Jan 30) 
 
 1. [Boolean Expressions](/while-loops/01_booleanExpressions.md)
 2. [Comparison Operators](/while-loops/02_comparisonOperators.md)
