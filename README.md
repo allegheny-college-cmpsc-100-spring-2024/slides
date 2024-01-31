@@ -5,7 +5,7 @@
 Resources:
 - [Modulo Animation Demo Trinket](https://trinket.io/glowscript/8a404108c7)
 - [VPython Documentation, Animation](https://www.glowscript.org/docs/VPythonDocs/rate.html)
-- [Remainder](https://www.mathsisfun.com/definitions/remainder.html)
+- [Remainder](https://mathworld.wolfram.com/Remainder.html)
 - [Real Python - Modulo](https://realpython.com/python-modulo-operator/)
 - [Trinket Tutorial: Modulus](https://learnpython.trinket.io/learn-python-part-1-numbers#/numbers/modulus)
 
