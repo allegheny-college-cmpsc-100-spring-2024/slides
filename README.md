@@ -3,7 +3,7 @@
 ## Animation + Mod Function (Feb 1)
 
 Resources:
-- [Modulo Animation Demo Trinkte](https://trinket.io/glowscript/8a404108c7)
+- [Modulo Animation Demo Trinket](https://trinket.io/glowscript/8a404108c7)
 - [VPython Documentation, Animation](https://www.glowscript.org/docs/VPythonDocs/rate.html)
 - [Remainder](https://www.mathsisfun.com/definitions/remainder.html)
 - [Real Python - Modulo](https://realpython.com/python-modulo-operator/)
