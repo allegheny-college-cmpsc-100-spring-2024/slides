@@ -1,5 +1,15 @@
 # Lecture Content
 
+## Animation + Mod Function (Feb 1)
+
+Resources:
+- [Modulo Animation Demo Trinkte](https://trinket.io/glowscript/8a404108c7)
+- [VPython Documentation, Animation](https://www.glowscript.org/docs/VPythonDocs/rate.html)
+- [Remainder](https://www.mathsisfun.com/definitions/remainder.html)
+- [Real Python - Modulo](https://realpython.com/python-modulo-operator/)
+- [Trinket Tutorial: Modulus](https://learnpython.trinket.io/learn-python-part-1-numbers#/numbers/modulus)
+
+
 ## While Loops (Jan 30) 
 
 1. [Boolean Expressions](/while-loops/01_booleanExpressions.md)
