@@ -1,13 +1,16 @@
 # Lecture Content
 
-## Animation + Mod Function (Feb 1)
+## Modulus (Feb 1)
 
 Resources:
 - [Modulo Animation Demo Trinket](https://trinket.io/glowscript/8a404108c7)
-- [VPython Documentation, Animation](https://www.glowscript.org/docs/VPythonDocs/rate.html)
 - [Remainder](https://mathworld.wolfram.com/Remainder.html)
 - [Real Python - Modulo](https://realpython.com/python-modulo-operator/)
 - [Trinket Tutorial: Modulus](https://learnpython.trinket.io/learn-python-part-1-numbers#/numbers/modulus)
+
+Trinkets from class demo:
+- [Python examples](https://trinket.io/python/2312a3b810)
+- [VPython examples](https://trinket.io/glowscript/de090984b7)
 
 
 ## While Loops (Jan 30) 
