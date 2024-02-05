@@ -11,7 +11,6 @@
 7. [Input](/while-loops/07_input.md)
 
 
-
 ## VPython Shapes and Colors (Jan 25)
 
 1.  [Console](/vpython-shapes-and-colors/01_console.md)
