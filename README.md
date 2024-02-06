@@ -1,5 +1,16 @@
 # Lecture Content
 
+## Animations and Loops (2/6) 
+
+1. [Variable Review](/while-true/01_variableReview.md)
+2. [Variable Review VPython](/while-true/02_variableReviewVpython.md)
+3. [While Loops review](/while-true/03_whileLoopsReview.md)
+4. [While Loops review VPython](/while-true/04_whileLoopsReview.md)
+5. [While Loop Animation](/while-true/05_whileLoopAnimation.md)
+6. [Rate](/while-true/06_rate.md)
+7. [While True](/while-true/07_whileTrue.md)
+8. [Modulus](/while-true/08_modulus.md)
+
 ## Modulus (Feb 1)
 
 Resources:

@@ -89,8 +89,8 @@ def linkslides(folder):
 
 if __name__ == "__main__":
     
-    folder = "while-loops"
-    header = "While Loops (Jan 29)"
+    folder = "while-true"
+    header = "Animations and Loops (2/6)"
     #unlinkslides(folder)
     #sys.exit()
     linkslides(folder)
