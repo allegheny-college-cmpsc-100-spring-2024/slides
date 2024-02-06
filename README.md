@@ -11,6 +11,8 @@
 7. [While True](/while-true/07_whileTrue.md)
 8. [Modulus](/while-true/08_modulus.md)
 
+CLASS DEMO: [growing tree](https://trinket.io/glowscript/d7c51a9ca7)
+
 ## Modulus (Feb 1)
 
 Resources:
