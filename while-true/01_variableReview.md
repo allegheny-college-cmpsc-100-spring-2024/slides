@@ -23,3 +23,6 @@ EXCEPT THAT in the first version, you can change the name in the first line and 
 This might not seem like a big deal when you only have to change two lines of code, but it's a much bigger deal if you have to change 1000...
 
 See [this demo](https://trinket.io/python/8d6dd97818), and imagine what it would be like if you had to change every line each time you adapted your code to address is new person.
+
+
+[-> Variable Review VPython](/while-true/02_variableReviewVpython.md)

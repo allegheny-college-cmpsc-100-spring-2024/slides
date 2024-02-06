@@ -10,3 +10,5 @@ rate(100) # 100 frames per second, may be too fast for comfort
 rate(0.5) # half a famer per second, good for testing in slow mo
 ```
 If you don't include a `rate()` function in your animation, in won't run properly, and might crash you browser. 
+
+[-> While True](/while-true/07_whileTrue.md)
