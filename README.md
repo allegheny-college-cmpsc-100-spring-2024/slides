@@ -10,6 +10,7 @@
 
 [For Loops](/lists-for-loops/04_forLoops.md)
 
+CLASS DEMO: [lists, for-loops, and shapes](https://trinket.io/glowscript/450e4956a4)
 ##
 
 Animations and Loops (2/6)
