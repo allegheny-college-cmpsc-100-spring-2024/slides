@@ -1,41 +1,53 @@
 # Lecture Content
 
-## Animations and Loops (2/6) 
+## Lists and For Loops (2/8)
 
-1. [Variable Review](/while-true/01_variableReview.md)
-2. [Variable Review VPython](/while-true/02_variableReviewVpython.md)
-3. [While Loops review](/while-true/03_whileLoopsReview.md)
-4. [While Loops review VPython](/while-true/04_whileLoopsReview.md)
-5. [While Loop Animation](/while-true/05_whileLoopAnimation.md)
-6. [Rate](/while-true/06_rate.md)
-7. [While True](/while-true/07_whileTrue.md)
-8. [Modulus](/while-true/08_modulus.md)
+[Lists](/lists-for-loops/01_lists.md)
+
+[Indices](/lists-for-loops/02_indices.md)
+
+[Range](/lists-for-loops/03_range.md)
+
+[For Loops](/lists-for-loops/04_forLoops.md)
+
+##
+
+Animations and Loops (2/6)
+
+1.  [Variable Review](/while-true/01_variableReview.md)
+2.  [Variable Review VPython](/while-true/02_variableReviewVpython.md)
+3.  [While Loops review](/while-true/03_whileLoopsReview.md)
+4.  [While Loops review VPython](/while-true/04_whileLoopsReview.md)
+5.  [While Loop Animation](/while-true/05_whileLoopAnimation.md)
+6.  [Rate](/while-true/06_rate.md)
+7.  [While True](/while-true/07_whileTrue.md)
+8.  [Modulus](/while-true/08_modulus.md)
 
 CLASS DEMO: [growing tree](https://trinket.io/glowscript/d7c51a9ca7)
 
 ## Modulus (Feb 1)
 
 Resources:
+
 - [Modulo Animation Demo Trinket](https://trinket.io/glowscript/8a404108c7)
 - [Remainder](https://mathworld.wolfram.com/Remainder.html)
 - [Real Python - Modulo](https://realpython.com/python-modulo-operator/)
 - [Trinket Tutorial: Modulus](https://learnpython.trinket.io/learn-python-part-1-numbers#/numbers/modulus)
 
 Trinkets from class demo:
+
 - [Python examples](https://trinket.io/python/2312a3b810)
 - [VPython examples](https://trinket.io/glowscript/de090984b7)
 
+## While Loops (Jan 30)
 
-## While Loops (Jan 30) 
-
-1. [Boolean Expressions](/while-loops/01_booleanExpressions.md)
-2. [Comparison Operators](/while-loops/02_comparisonOperators.md)
-3. [While Loops](/while-loops/03_whileLoops.md)
-4. [Indentation](/while-loops/04_indentation.md)
-5. [Fear Infinity](/while-loops/05_fearInfinity.md)
-6. [Repeating Shapes](/while-loops/06_repeatingShapes.md)
-7. [Input](/while-loops/07_input.md)
-
+1.  [Boolean Expressions](/while-loops/01_booleanExpressions.md)
+2.  [Comparison Operators](/while-loops/02_comparisonOperators.md)
+3.  [While Loops](/while-loops/03_whileLoops.md)
+4.  [Indentation](/while-loops/04_indentation.md)
+5.  [Fear Infinity](/while-loops/05_fearInfinity.md)
+6.  [Repeating Shapes](/while-loops/06_repeatingShapes.md)
+7.  [Input](/while-loops/07_input.md)
 
 ## VPython Shapes and Colors (Jan 25)
 
@@ -47,7 +59,7 @@ Trinkets from class demo:
 6.  [VPython Colors](/vpython-shapes-and-colors/06_vpythonColors.md)
 7.  [Color Resources](/vpython-shapes-and-colors/07_colorResources.md)
 
-### More Links 
+### More Links
 
 - [Code Demo Trinket](https://trinket.io/glowscript/a280273975)
 - [VPython Documentation](https://www.glowscript.org/docs/VPythonDocs/index.html)
@@ -81,4 +93,3 @@ Additional Resource: [Getting Started with Python on trinket.io](https://docs.tr
 8.  [Trinket](/about-100/08_trinket.md)
 9.  [Markdown](/about-100/09_markdown.md)
 10. [Laptop](/about-100/10_laptop.md)
-
