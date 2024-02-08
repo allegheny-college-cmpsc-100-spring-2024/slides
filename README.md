@@ -94,3 +94,9 @@ Additional Resource: [Getting Started with Python on trinket.io](https://docs.tr
 8.  [Trinket](/about-100/08_trinket.md)
 9.  [Markdown](/about-100/09_markdown.md)
 10. [Laptop](/about-100/10_laptop.md)
+
+
+
+| Column1 | Column2 |
+| --- | --- | 
+| 2 | 6 |
