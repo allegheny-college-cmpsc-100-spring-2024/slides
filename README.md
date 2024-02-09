@@ -9,9 +9,7 @@
 
 CLASS DEMO: [lists, for-loops, and shapes](https://trinket.io/glowscript/450e4956a4)
 
-##
-
-Animations and Loops (2/6)
+## Animations and Loops (2/6)
 
 1.  [Variable Review](/while-true/01_variableReview.md)
 2.  [Variable Review VPython](/while-true/02_variableReviewVpython.md)
