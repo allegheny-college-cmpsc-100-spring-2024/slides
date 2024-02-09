@@ -92,7 +92,3 @@ Additional Resource: [Getting Started with Python on trinket.io](https://docs.tr
 10. [Laptop](/about-100/10_laptop.md)
 
 
-
-| Column1 | Column2 |
-| --- | --- | 
-| 2 | 6 |
