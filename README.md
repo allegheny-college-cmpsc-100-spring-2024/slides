@@ -2,15 +2,13 @@
 
 ## Lists and For Loops (2/8)
 
-[Lists](/lists-for-loops/01_lists.md)
-
-[Indices](/lists-for-loops/02_indices.md)
-
-[Range](/lists-for-loops/03_range.md)
-
-[For Loops](/lists-for-loops/04_forLoops.md)
+1. [Lists](/lists-for-loops/01_lists.md)
+2. [Indices](/lists-for-loops/02_indices.md)
+3. [Range](/lists-for-loops/03_range.md)
+4. [For Loops](/lists-for-loops/04_forLoops.md)
 
 CLASS DEMO: [lists, for-loops, and shapes](https://trinket.io/glowscript/450e4956a4)
+
 ##
 
 Animations and Loops (2/6)
