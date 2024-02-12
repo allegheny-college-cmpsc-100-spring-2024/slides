@@ -8,3 +8,5 @@ for shp in shapes:
     shp.color = vector(1, 0, 0)
 ```
 [See it on Trinket](https://trinket.io/glowscript/4e86225d48)
+
+[-> Append](/lists-for-loops-contd/04_append.md)

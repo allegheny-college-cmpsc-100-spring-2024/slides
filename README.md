@@ -1,5 +1,15 @@
 # Lecture Content
 
+## Lists and For Loops, continued (2/13) 
+
+1. [While For](/lists-for-loops-contd/01_whileFor.md)
+2. [Lists VPython](/lists-for-loops-contd/02_listsVpython.md)
+3. [For Loops VPython](/lists-for-loops-contd/03_forLoopsVPython.md)
+4. [Append](/lists-for-loops-contd/04_append.md)
+5. [Append VPython](/lists-for-loops-contd/05_appendVPython.md)
+6. [Len](/lists-for-loops-contd/06_len.md)
+7. [Using Len](/lists-for-loops-contd/07_usingLen.md)
+
 ## Lists and For Loops (2/8)
 
 1. [Lists](/lists-for-loops/01_lists.md)
@@ -90,5 +100,6 @@ Additional Resource: [Getting Started with Python on trinket.io](https://docs.tr
 8.  [Trinket](/about-100/08_trinket.md)
 9.  [Markdown](/about-100/09_markdown.md)
 10. [Laptop](/about-100/10_laptop.md)
+
 
 

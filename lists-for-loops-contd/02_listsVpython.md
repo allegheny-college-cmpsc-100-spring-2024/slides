@@ -9,3 +9,4 @@ shapes[0].pos.x = -3 # moves first shape in list to left
 shapes[1].pos.x = 3 # moves last shape in list to right
 ```
 
+[-> For Loops VPython](/lists-for-loops-contd/03_forLoopsVPython.md)

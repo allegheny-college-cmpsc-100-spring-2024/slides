@@ -7,3 +7,5 @@ len("cat") # returns 3
 len([0, 1, 2, 3, 4]) # returns 5
 
 ```
+
+[-> Using Len](/lists-for-loops-contd/07_usingLen.md)
