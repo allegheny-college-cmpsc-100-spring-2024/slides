@@ -1,4 +1,4 @@
-# Feel free to Experiment! 
+# Feel free to experiment! 
 
 ![Alt text](image.png)
 
