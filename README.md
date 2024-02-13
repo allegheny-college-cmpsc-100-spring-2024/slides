@@ -10,6 +10,8 @@
 6. [Len](/lists-for-loops-contd/06_len.md)
 7. [Using Len](/lists-for-loops-contd/07_usingLen.md)
 
+CLASS DEMO: [Stick Figures](https://trinket.io/glowscript/4c8f84094e)
+
 ## Lists and For Loops (2/8)
 
 1. [Lists](/lists-for-loops/01_lists.md)
