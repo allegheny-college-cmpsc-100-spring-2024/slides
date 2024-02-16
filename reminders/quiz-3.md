@@ -4,7 +4,7 @@
 - The best materials to study are:
   - [Problem Set 3](https://classroom.github.com/a/YirqgstC)
   - [Lecture Materials](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/README.md#lists-and-for-loops-continued-213) from Feb 8 - 13
-- Note that the next quiz will be cumulative! But this one covers recent content. 
+- Note that the quiz after this one will be cumulative! But the 2/23 quiz covers only Week 4 - 5. 
 
 ## A Quick Reminder
 
