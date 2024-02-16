@@ -5,3 +5,8 @@
   - [Problem Set 3](https://classroom.github.com/a/YirqgstC)
   - [Lecture Materials](https://github.com/allegheny-college-cmpsc-100-spring-2024/slides/blob/main/README.md#lists-and-for-loops-continued-213) from Feb 8 - 13
 - Note that the next quiz will be cumulative! But this one covers recent content. 
+
+## A Quick Reminder
+
+- Lab meets every Friday unless I specify otherwise!
+- Lab now meets in room 207 at 2:45 pm. I encourage you to enjoy iTea downstairs before class starts!
