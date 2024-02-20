@@ -1,4 +1,4 @@
-# If Statemenet in VPython
+# If Statement in VPython
 
 <img src = "image.png" width = "450px" />
 
