@@ -1,6 +1,6 @@
 # If-else in VPython
 
-![alt text](image-1.png)
+<img src = "image-1.png" width = "450px" />
 
 This example adds an else statement to the last one. 
 

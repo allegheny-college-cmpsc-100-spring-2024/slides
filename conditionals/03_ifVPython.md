@@ -1,6 +1,6 @@
 # If Statemenet in VPython
 
-![alt text](image.png)
+<img src = "image.png" width = "450px" />
 
 ```
 # i is equal to 0 then 1 then 2.... then 8
@@ -14,4 +14,4 @@ for i in range(9):
 
 [Click here](https://trinket.io/glowscript/02a8eee925) for Trinket. 
 
-[-> If Elsevpython](/conditionals/04_ifElseVPython.md)
+[-> If Else VPython](/conditionals/04_ifElseVPython.md)
