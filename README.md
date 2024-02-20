@@ -1,5 +1,19 @@
 # Lecture Content
 
+## Conditional Statements (2/20) 
+
+1. [If](/conditionals/01_if.md)
+2. [If Else](/conditionals/02_ifElse.md)
+3. [If VPython](/conditionals/03_ifVPython.md)
+4. [If Else VPython](/conditionals/04_ifElseVPython.md)
+
+## Lists and For Loops, Popcorn Demo (2/15-16)
+
+[Popcorn Demo Trinket](https://trinket.io/glowscript/36177a7e88)
+[Popcorn Demo with Animation](https://trinket.io/glowscript/ec298badd2)(2/16)
+
+Video available on request! 
+
 ## Lists and For Loops, continued (2/13) 
 
 1. [While For](/lists-for-loops-contd/01_whileFor.md)
@@ -102,6 +116,7 @@ Additional Resource: [Getting Started with Python on trinket.io](https://docs.tr
 8.  [Trinket](/about-100/08_trinket.md)
 9.  [Markdown](/about-100/09_markdown.md)
 10. [Laptop](/about-100/10_laptop.md)
+
 
 
 

@@ -89,8 +89,8 @@ def linkslides(folder):
 
 if __name__ == "__main__":
     
-    folder = "lists-for-loops-contd"
-    header = "Lists and For Loops, continued (2/13)"
+    folder = "conditionals"
+    header = "Conditional Statements (2/20)"
     #unlinkslides(folder)
     #sys.exit()
     linkslides(folder)

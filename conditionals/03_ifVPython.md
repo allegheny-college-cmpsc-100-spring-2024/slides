@@ -13,3 +13,5 @@ for i in range(9):
 ```
 
 [Click here](https://trinket.io/glowscript/02a8eee925) for Trinket. 
+
+[-> If Elsevpython](/conditionals/04_ifElseVPython.md)
