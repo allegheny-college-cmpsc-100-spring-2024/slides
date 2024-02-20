@@ -2,7 +2,7 @@
 
 <img src = "image.png" width = "450px" />
 
-```
+```python
 # i is equal to 0 then 1 then 2.... then 8
 for i in range(9):
   x = i * 2 - 8 # x pos var as function of i
