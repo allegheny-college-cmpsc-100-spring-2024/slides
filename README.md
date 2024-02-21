@@ -7,6 +7,10 @@
 3. [If VPython](/conditionals/03_ifVPython.md)
 4. [If Else VPython](/conditionals/04_ifElseVPython.md)
 
+CLASS DEMO: [Python Trinket](https://trinket.io/python/27fd7caca4)
+
+CLASS DEMO: [Stick Figure cont'd](https://trinket.io/glowscript/4c8f84094e), see lines 46-57
+
 ## Lists and For Loops, Popcorn Demo (2/15-16)
 
 [Popcorn Demo Trinket](https://trinket.io/glowscript/36177a7e88)
