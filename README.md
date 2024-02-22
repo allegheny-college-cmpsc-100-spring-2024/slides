@@ -1,5 +1,9 @@
 # Lecture Content
 
+## Conditional Statments cont'd (2/22)
+
+CLASS DEMO: [Variable Acceleration Pyramids](https://trinket.io/glowscript/1158dcadad)
+
 ## Conditional Statements (2/20) 
 
 1. [If](/conditionals/01_if.md)
