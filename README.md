@@ -17,11 +17,10 @@ CLASS DEMO: [Stick Figure cont'd](https://trinket.io/glowscript/4c8f84094e), see
 
 ## Lists and For Loops, Popcorn Demo (2/15-16)
 
-[Popcorn Demo Trinket](https://trinket.io/glowscript/36177a7e88)
+[Popcorn Demo Trinket](https://trinket.io/glowscript/36177a7e88) <- Video available on request! 
 
-[Popcorn Demo with Animation](https://trinket.io/glowscript/ec298badd2)(2/16)
+[Popcorn Demo with Animation](https://trinket.io/glowscript/ec298badd2) (2/16)
 
-Video available on request! 
 
 ## Lists and For Loops, continued (2/13) 
 
