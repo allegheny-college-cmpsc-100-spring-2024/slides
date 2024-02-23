@@ -9,6 +9,8 @@ Strings are text values. If a variable's value is surrounded with `'` or `"`, Py
 pet1 = "dog"
 pet2 = 'cat'
 ```
+>[!NOTE]
+> If Python sees a word WITHOUT quotation marks, it will look for a variable with that name. If it doesn't find one, it will throw an error. 
 
 ### int
 
