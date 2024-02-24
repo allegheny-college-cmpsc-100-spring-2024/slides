@@ -8,10 +8,9 @@ Let's say you wanted an object with a certain initial (or starting) velocity to 
 # create acceleration to zero function given initial velocity (in units per second)
 # seconds to stop, and frame rate
 def accelToZero(initial_velocity, seconds_to_zero, fps):
-	acceleration = -initial_velocity/seconds_to_zero # calculate per s^2 accel
-	acceleration /= fps # convert to per frame acceleration
-	return acceleration # return acceleration
-
+    acceleration = -initial_velocity/seconds_to_zero # calculate per s^2 accel
+    acceleration /= fps # convert to per frame acceleration
+    return acceleration # return acceleration
 ```
 
-See this function in action \[on Trinket\](https://trinket.io/glowscript/c27ed58711).
+See this function in action [on Trinket](https://trinket.io/glowscript/c27ed58711).
