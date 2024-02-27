@@ -10,3 +10,5 @@ def add(a, b):
 sum = add(3, 5)
 print(sum)  # Output: 8
 ```
+
+[-> Function Of](/math-functions/05_functionOf.md)

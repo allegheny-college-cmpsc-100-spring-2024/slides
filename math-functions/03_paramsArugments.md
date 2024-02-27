@@ -14,3 +14,6 @@ def greet(name): # here, name is a parameter
 
 print(greet("Alice")) # Alice is an argument
 ```
+
+
+[-> Return](/math-functions/04_return.md)

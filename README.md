@@ -1,5 +1,17 @@
 # Lecture Content
 
+
+## DIY Functions + VPython Math (2/26) 
+
+1. [Python Functions](/math-functions/01_pythonFunctions.md)
+2. [Function Syntax](/math-functions/02_functionSyntax.md)
+3. [Parameters & Arugments](/math-functions/03_paramsArugments.md)
+4. [Return](/math-functions/04_return.md)
+5. [Function Of](/math-functions/05_functionOf.md)
+5. [Velocity](/math-functions/05_velocity.md)
+7. [Acceleration](/math-functions/07_acceleration.md)
+
+
 ## Conditional Statments cont'd (2/22)
 
 CLASS DEMO: [Variable Acceleration Pyramids](https://trinket.io/glowscript/1158dcadad)
@@ -124,7 +136,6 @@ Additional Resource: [Getting Started with Python on trinket.io](https://docs.tr
 8.  [Trinket](/about-100/08_trinket.md)
 9.  [Markdown](/about-100/09_markdown.md)
 10. [Laptop](/about-100/10_laptop.md)
-
 
 
 

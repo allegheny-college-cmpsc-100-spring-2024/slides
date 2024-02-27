@@ -10,3 +10,6 @@ def frameVelocity(velocity, fps):
 ```
 
 See an example of this function working [on Trinket](https://trinket.io/glowscript/c08641882c).
+
+
+[-> Acceleration](/math-functions/07_acceleration.md)

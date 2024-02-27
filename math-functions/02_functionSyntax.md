@@ -13,3 +13,6 @@ def <unction_name(parameter1, parameter2):
 - `(parameter1, parameter2)`: Parameters (inputs) the function takes.
 - `return`: Keyword to specify the return value(s) of the function.
 - Indentation: Indicates the scope of the function body.
+
+
+[-> Params Arugments](/math-functions/03_paramsArugments.md)

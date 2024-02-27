@@ -10,3 +10,6 @@ print(greet("Alice"))  # Output: Hello, Alice!
 \`\`\`
 
 We are already familiar with some built-in Python functions like `print()`, `range()`, and `input()`
+
+
+[-> Function Syntax](/math-functions/02_functionSyntax.md)
