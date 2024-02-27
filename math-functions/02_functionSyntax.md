@@ -3,7 +3,7 @@
 To define a function in Python, use the `def` keyword followed by the function name and parentheses containing any parameters. The function body is indented.
 
 ```python
-def <function_name(parameter1, parameter2):
+def <function_name>(parameter1, parameter2):
     # Function body
     result = parameter1 + parameter2
     return result
