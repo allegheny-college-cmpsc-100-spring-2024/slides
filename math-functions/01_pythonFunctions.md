@@ -4,7 +4,7 @@ Functions in Python are blocks of reusable code designed to perform a specific t
 
 ```python  
 def greet(name):  
-   return f"Hello, {name}!"
+   return "Hello " + name + "!"
 
 print(greet("Alice"))  # Output: Hello, Alice!  
 ```
