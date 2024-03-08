@@ -1,6 +1,6 @@
 # Lecture Content
 
-## Terminal and File Management
+## Terminal and File Management (3/12)
 
 1. [Local Development](/command-line-files/01_localDevelopment.md)
 2. [Local Benefits](/command-line-files/02_localBenefits.md)
