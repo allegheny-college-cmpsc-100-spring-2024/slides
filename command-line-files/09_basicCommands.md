@@ -5,10 +5,10 @@ Many command lines take arguments, just like functions in Python. Positiional ar
 ```terminal
 $ mkdir red # makes directory red
 $ cd red # chooses directory red
-$ echo one>1.txt # writes 'one' to file 1.txt
+$ echo one>1.txt # writes 'one' to file 1.txt, inside red folder
 $ cd .. # chooses parent directory (the path holding path red)
 
 ```
 
 > [!NOTE]
-> When Terminal commands are formatted as above in code examples, the `$` indicates a new line and should not be typed. 
+> When example Terminal commands are formatted as above, the `$` indicates a new line and should not be typed. 
