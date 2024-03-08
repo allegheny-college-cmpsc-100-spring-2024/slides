@@ -89,8 +89,8 @@ def linkslides(folder):
 
 if __name__ == "__main__":
     
-    folder = "math-functions"
-    header = "DIY Functions + VPython Math (2/26)"
+    folder = "command-line-files"
+    header = "Terminal and File Managements"
     #unlinkslides(folder)
     #sys.exit()
     linkslides(folder)

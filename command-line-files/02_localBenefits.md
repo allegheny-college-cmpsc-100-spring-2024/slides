@@ -6,3 +6,5 @@
 - Working offline
 - Working collaboratively 
 - Professionalism
+
+[-> Terminal](/command-line-files/03_commandPrompt.md)

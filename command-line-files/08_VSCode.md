@@ -6,3 +6,6 @@
 
 VSCode is required for many Computer and Information Science classes here at Allegheny. 
 
+
+
+[-> Basic Commands](/command-line-files/09_basicCommands.md)

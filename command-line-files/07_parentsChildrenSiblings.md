@@ -10,3 +10,6 @@ Parents, children, and siblings describe relations between files and folders. In
     └── orange
 ```
 
+
+
+[->  Vscode](/command-line-files/08_VSCode.md)

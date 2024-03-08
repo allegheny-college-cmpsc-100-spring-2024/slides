@@ -1,5 +1,16 @@
 # Lecture Content
 
+## Terminal and File Management
+
+1. [Local Development](/command-line-files/01_localDevelopment.md)
+2. [Local Benefits](/command-line-files/02_localBenefits.md)
+3. [Terminal](/command-line-files/03_commandPrompt.md)
+4. [Operating Systems](/command-line-files/04_operatingSystems.md)
+5. [Gradual Intro](/command-line-files/05_gradualIntro.md)
+6. [File Sytems](/command-line-files/06_fileSytems.md)
+7. [Parents Children, Siblings](/command-line-files/07_parentsChildrenSiblings.md)
+8. [ VScode](/command-line-files/08_VSCode.md)
+9. [Basic Commands](/command-line-files/09_basicCommands.md)
 
 ## DIY Functions + VPython Math (2/26) 
 
@@ -136,6 +147,7 @@ Additional Resource: [Getting Started with Python on trinket.io](https://docs.tr
 8.  [Trinket](/about-100/08_trinket.md)
 9.  [Markdown](/about-100/09_markdown.md)
 10. [Laptop](/about-100/10_laptop.md)
+
 
 
 
