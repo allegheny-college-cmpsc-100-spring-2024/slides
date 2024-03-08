@@ -11,4 +11,4 @@ $ cd .. # chooses parent directory (the path holding path red)
 ```
 
 > [!NOTE]
-> When example Terminal commands are formatted as above, the `$` indicates a new line and should not be typed. 
+> When example Terminal commands are formatted as above, only the text between `$` and `#` should be typed. `$` indicates a new line and the `#` text is a comment explaining the code. 
