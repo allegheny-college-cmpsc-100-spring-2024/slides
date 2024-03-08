@@ -9,7 +9,7 @@
 5. [Gradual Intro](/command-line-files/05_gradualIntro.md)
 6. [File Sytems](/command-line-files/06_fileSytems.md)
 7. [Parents Children, Siblings](/command-line-files/07_parentsChildrenSiblings.md)
-8. [ VScode](/command-line-files/08_VSCode.md)
+8. [VScode](/command-line-files/08_VSCode.md)
 9. [Basic Commands](/command-line-files/09_basicCommands.md)
 
 ## DIY Functions + VPython Math (2/26) 
