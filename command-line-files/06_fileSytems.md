@@ -5,6 +5,7 @@
 These are two representations of the same file system. 
 
 <img width = "300px" src = "image-2.png" />
+
 ```
 └── red
     ├── yellow
