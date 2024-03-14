@@ -7,4 +7,4 @@ canvas home page. This is the best way I can calibrate my teaching for your indi
 - I will also work on adjusting the pace of demos
 - It is unlikely that I can find an efficient way to post assignments for this class in Canvas, but I will look into it.
 
-[Office Hours Link](LINK)
+[Office Hours Link](officeHoursLink.md)
