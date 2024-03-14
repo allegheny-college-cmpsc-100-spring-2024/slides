@@ -1,4 +1,4 @@
-# Next Coding Quiz on March 14!
+# Next Coding Quiz on March 15!
 
 This quiz will be closed book, on paper. It willl cover all course content covered before spring break. 
   - [Problem Set 1](https://classroom.github.com/a/UNxAOcxS)    
