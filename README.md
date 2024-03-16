@@ -8,6 +8,7 @@
 3. [Clone Commit Push](/git-github/03_cloneCommitPush.md)
 4. [Embrace Frustration](/git-github/04_embraceFrustration.md)
 
+VIDEO DEMO: [Clone Commit Push](https://drive.google.com/file/d/1bTXvftVQtvPRS-oC1Ky67Xh9WS4yTmfC/view?usp=sharing)
 
 ## Terminal and File Management (3/12)
 
