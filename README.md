@@ -1,5 +1,14 @@
 # Lecture Content
 
+
+## Git & GitHub (3/19)
+
+1. [Git and GitHub](/git-github/01_gitAndGithub.md)
+2. [Secure Sockets Shell](/git-github/02_secureSocketShell.md)
+3. [Clone Commit Push](/git-github/03_cloneCommitPush.md)
+4. [Embrace Frustration](/git-github/04_embraceFrustration.md)
+
+
 ## Terminal and File Management (3/12)
 
 1. [Local Development](/command-line-files/01_localDevelopment.md)
