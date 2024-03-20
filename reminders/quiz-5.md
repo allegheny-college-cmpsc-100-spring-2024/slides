@@ -1,12 +1,12 @@
 # Quiz #5 Information
 
-Quiz # 5 will cover the following Termianl commands:
+Quiz # 5 will cover the following Terminal commands:
 - `mkdir`
 - `cd`
 - `echo`
+- `git clone`
 - `git add`
 - `git commit`
-- `git clone`
 - `git push`
 
 To best prepare for the quiz, review the following materials
