@@ -1,6 +1,6 @@
 # Quiz #5 Information
 
-Quiz # 5 will cover the following Terminal commands:
+Quiz #5 will cover the following Terminal commands:
 - `mkdir`
 - `cd`
 - `echo`
