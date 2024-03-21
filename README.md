@@ -1,5 +1,8 @@
 # Lecture Content
 
+## Nesting Demo (3/21)
+
+[Find demo code here](https://trinket.io/glowscript/376c813223)
 
 ## Git & GitHub (3/19)
 
