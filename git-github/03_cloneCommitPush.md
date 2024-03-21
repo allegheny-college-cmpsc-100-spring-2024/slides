@@ -1,9 +1,9 @@
 # Clone, Commit, Push
 
 Clone, add, commit, and push are three very important `git` commands! See syntax beneath each concept.
-- *Cloning* means making a local copy of a repo from github. 
+- *Cloning* means making a local copy of a repo from GitHub. 
   - **`git clone <repo-link>`**
-- *adding* files allows them to be part of the next commit.
+- *Adding* files allows them to be part of the next commit.
   - **`git add .`**
   - ⬆️ note the dot, which adds all files in the current directory to the next commit!
 - *Commits* are versions of your code that have been saved with a message, so you can retrace your steps.
