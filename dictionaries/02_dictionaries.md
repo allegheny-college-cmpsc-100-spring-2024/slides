@@ -23,3 +23,5 @@ del my_dict['orange']
 for key in my_dict:
     print(key, my_dict[key])
 ```
+
+[-> Keys and Values](/dictionaries/03_keysValues.md)

@@ -13,3 +13,5 @@ name = my_dict['name']
 print(name)  # Output: Alice
 print(my_dict['city']) # Output: London 
 ```
+
+[-> Adding Keys](/dictionaries/05_addingKeys.md)

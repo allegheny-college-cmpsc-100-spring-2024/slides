@@ -1,51 +1,59 @@
 # Lecture Content
 
+## Dictionaries (3/26)
+
+1.  [Welcome Activity](/dictionaries/01_welcomeActivity.md)
+2.  [Dictionaries](/dictionaries/02_dictionaries.md)
+3.  [Keys and Values](/dictionaries/03_keysValues.md)
+4.  [Accessing Values](/dictionaries/04_accessingValues.md)
+5.  [Adding Keys](/dictionaries/05_addingKeys.md)
+6.  [Dictionaries  vs Lists](/dictionaries/06_dictionariesVsLists.md)
+
 ## Nesting Demo (3/21)
 
 [Find demo code here](https://trinket.io/glowscript/376c813223)
 
 ## Git & GitHub (3/19)
 
-1. [Git and GitHub](/git-github/01_gitAndGithub.md)
-2. [Secure Sockets Shell](/git-github/02_secureSocketShell.md)
-3. [Clone Commit Push](/git-github/03_cloneCommitPush.md)
-4. [Embrace Frustration](/git-github/04_embraceFrustration.md)
+1.  [Git and GitHub](/git-github/01_gitAndGithub.md)
+2.  [Secure Sockets Shell](/git-github/02_secureSocketShell.md)
+3.  [Clone Commit Push](/git-github/03_cloneCommitPush.md)
+4.  [Embrace Frustration](/git-github/04_embraceFrustration.md)
 
 VIDEO DEMO: [Clone Commit Push](https://drive.google.com/file/d/1bTXvftVQtvPRS-oC1Ky67Xh9WS4yTmfC/view?usp=sharing)
 
 ## Terminal and File Management (3/12)
 
-1. [Local Development](/command-line-files/01_localDevelopment.md)
-2. [Local Benefits](/command-line-files/02_localBenefits.md)
-3. [Terminal](/command-line-files/03_commandPrompt.md)
-4. [Operating Systems](/command-line-files/04_operatingSystems.md)
-5. [Gradual Intro](/command-line-files/05_gradualIntro.md)
-6. [File Sytems](/command-line-files/06_fileSytems.md)
-7. [Parents Children, Siblings](/command-line-files/07_parentsChildrenSiblings.md)
-8. [VScode](/command-line-files/08_VSCode.md)
-9. [Basic Commands](/command-line-files/09_basicCommands.md)
+1.  [Local Development](/command-line-files/01_localDevelopment.md)
+2.  [Local Benefits](/command-line-files/02_localBenefits.md)
+3.  [Terminal](/command-line-files/03_commandPrompt.md)
+4.  [Operating Systems](/command-line-files/04_operatingSystems.md)
+5.  [Gradual Intro](/command-line-files/05_gradualIntro.md)
+6.  [File Sytems](/command-line-files/06_fileSytems.md)
+7.  [Parents Children, Siblings](/command-line-files/07_parentsChildrenSiblings.md)
+8.  [VScode](/command-line-files/08_VSCode.md)
+9.  [Basic Commands](/command-line-files/09_basicCommands.md)
 
-## DIY Functions + VPython Math (2/26) 
+## DIY Functions + VPython Math (2/26)
 
-1. [Python Functions](/math-functions/01_pythonFunctions.md)
-2. [Function Syntax](/math-functions/02_functionSyntax.md)
-3. [Parameters & Arugments](/math-functions/03_paramsArugments.md)
-4. [Return](/math-functions/04_return.md)
-5. [Function Of](/math-functions/05_functionOf.md)
-5. [Velocity](/math-functions/05_velocity.md)
-7. [Acceleration](/math-functions/07_acceleration.md)
-
+1.  [Python Functions](/math-functions/01_pythonFunctions.md)
+2.  [Function Syntax](/math-functions/02_functionSyntax.md)
+3.  [Parameters & Arugments](/math-functions/03_paramsArugments.md)
+4.  [Return](/math-functions/04_return.md)
+5.  [Function Of](/math-functions/05_functionOf.md)
+6.  [Velocity](/math-functions/05_velocity.md)
+7.  [Acceleration](/math-functions/07_acceleration.md)
 
 ## Conditional Statments cont'd (2/22)
 
 CLASS DEMO: [Variable Acceleration Pyramids](https://trinket.io/glowscript/1158dcadad)
 
-## Conditional Statements (2/20) 
+## Conditional Statements (2/20)
 
-1. [If](/conditionals/01_if.md)
-2. [If Else](/conditionals/02_ifElse.md)
-3. [If VPython](/conditionals/03_ifVPython.md)
-4. [If Else VPython](/conditionals/04_ifElseVPython.md)
+1.  [If](/conditionals/01_if.md)
+2.  [If Else](/conditionals/02_ifElse.md)
+3.  [If VPython](/conditionals/03_ifVPython.md)
+4.  [If Else VPython](/conditionals/04_ifElseVPython.md)
 
 CLASS DEMO: [Python Trinket](https://trinket.io/python/27fd7caca4)
 
@@ -53,29 +61,28 @@ CLASS DEMO: [Stick Figure cont'd](https://trinket.io/glowscript/4c8f84094e), see
 
 ## Lists and For Loops, Popcorn Demo (2/15-16)
 
-[Popcorn Demo Trinket](https://trinket.io/glowscript/36177a7e88) <- Video available on request! 
+[Popcorn Demo Trinket](https://trinket.io/glowscript/36177a7e88) \<- Video available on request!
 
 [Popcorn Demo with Animation](https://trinket.io/glowscript/ec298badd2) (2/16)
 
+## Lists and For Loops, continued (2/13)
 
-## Lists and For Loops, continued (2/13) 
-
-1. [While For](/lists-for-loops-contd/01_whileFor.md)
-2. [Lists VPython](/lists-for-loops-contd/02_listsVpython.md)
-3. [For Loops VPython](/lists-for-loops-contd/03_forLoopsVPython.md)
-4. [Append](/lists-for-loops-contd/04_append.md)
-5. [Append VPython](/lists-for-loops-contd/05_appendVPython.md)
-6. [Len](/lists-for-loops-contd/06_len.md)
-7. [Using Len](/lists-for-loops-contd/07_usingLen.md)
+1.  [While For](/lists-for-loops-contd/01_whileFor.md)
+2.  [Lists VPython](/lists-for-loops-contd/02_listsVpython.md)
+3.  [For Loops VPython](/lists-for-loops-contd/03_forLoopsVPython.md)
+4.  [Append](/lists-for-loops-contd/04_append.md)
+5.  [Append VPython](/lists-for-loops-contd/05_appendVPython.md)
+6.  [Len](/lists-for-loops-contd/06_len.md)
+7.  [Using Len](/lists-for-loops-contd/07_usingLen.md)
 
 CLASS DEMO: [Stick Figures](https://trinket.io/glowscript/4c8f84094e)
 
 ## Lists and For Loops (2/8)
 
-1. [Lists](/lists-for-loops/01_lists.md)
-2. [Indices](/lists-for-loops/02_indices.md)
-3. [Range](/lists-for-loops/03_range.md)
-4. [For Loops](/lists-for-loops/04_forLoops.md)
+1.  [Lists](/lists-for-loops/01_lists.md)
+2.  [Indices](/lists-for-loops/02_indices.md)
+3.  [Range](/lists-for-loops/03_range.md)
+4.  [For Loops](/lists-for-loops/04_forLoops.md)
 
 CLASS DEMO: [lists, for-loops, and shapes](https://trinket.io/glowscript/450e4956a4)
 
@@ -160,7 +167,3 @@ Additional Resource: [Getting Started with Python on trinket.io](https://docs.tr
 8.  [Trinket](/about-100/08_trinket.md)
 9.  [Markdown](/about-100/09_markdown.md)
 10. [Laptop](/about-100/10_laptop.md)
-
-
-
-

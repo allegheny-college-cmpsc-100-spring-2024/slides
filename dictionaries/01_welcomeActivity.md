@@ -12,3 +12,5 @@ As you try things out, feel free to post your remixed trinkets in the Discord th
 ## Seeds for future learning
 
 The starter code includes `import` (lines 5-6) and some new string manipulations (line 17, 21). We will cover these topics in more detail in later classes. 
+
+[-> Dictionaries](/dictionaries/02_dictionaries.md)

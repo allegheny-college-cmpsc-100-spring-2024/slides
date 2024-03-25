@@ -15,3 +15,6 @@ Dictionary values are...
 - **flexible**: They can be of any data type, including integers, floats, strings, lists, tuples, dictionaries, or even custom objects.
 - **mutable**: Unlike keys, values can be mutable or immutable. This allows for storing and accessing dynamic data structures within a dictionary.
 - **accessed with keys**: Values are accessed using their corresponding keys, providing a fast and efficient way to retrieve information from a dictionary.
+
+
+[-> Accessing Values](/dictionaries/04_accessingValues.md)

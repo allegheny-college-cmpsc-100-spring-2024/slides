@@ -11,3 +11,5 @@ fruit["apples"] = 8 # updated value {"apples": 8}
 fruit["grapes"] = 20 # updated value {"apples": 8, "grapes": 20}
 fruit["apples"] = 4 # {"apples": 4, "grapes": 20}
 ```
+
+[-> Dictionaries vs Lists](/dictionaries/06_dictionariesVsLists.md)

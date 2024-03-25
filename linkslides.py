@@ -89,8 +89,8 @@ def linkslides(folder):
 
 if __name__ == "__main__":
     
-    folder = "command-line-files"
-    header = "Terminal and File Managements"
+    folder = "dictionaries"
+    header = "Dictionaries (3/26)"
     #unlinkslides(folder)
     #sys.exit()
     linkslides(folder)
