@@ -9,6 +9,8 @@
 5.  [Adding Keys](/dictionaries/05_addingKeys.md)
 6.  [Dictionaries  vs Lists](/dictionaries/06_dictionariesVsLists.md)
 
+CLASS DEMO: [Dictonaries and Textures](https://trinket.io/glowscript/ac616e4c26)
+
 ## Nesting Demo (3/21)
 
 [Find demo code here](https://trinket.io/glowscript/376c813223)
