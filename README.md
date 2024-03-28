@@ -1,4 +1,7 @@
 # Lecture Content
+## Dictionaries Cont'd (3/28)
+
+CLASS DEMO: [Robots with List of Dictionaries](https://trinket.io/glowscript/7238ce5702)
 
 ## Dictionaries (3/26)
 
@@ -9,7 +12,7 @@
 5.  [Adding Keys](/dictionaries/05_addingKeys.md)
 6.  [Dictionaries  vs Lists](/dictionaries/06_dictionariesVsLists.md)
 
-CLASS DEMO: [Dictonaries and Textures](https://trinket.io/glowscript/ac616e4c26)
+CLASS DEMO: [Dictionaries and Textures](https://trinket.io/glowscript/ac616e4c26)
 
 ## Nesting Demo (3/21)
 
