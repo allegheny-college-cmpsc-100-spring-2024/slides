@@ -11,7 +11,6 @@ Relative paths are specified relative to the current working directory of the sc
  Assuming the current directory contains a folder named `build` with a file named `main.py`, this line would run the python code inside `build/main.py`:
 
 `python main.py`
----
 
 ## Absolute Paths
 
