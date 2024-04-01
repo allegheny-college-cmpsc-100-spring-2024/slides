@@ -89,8 +89,8 @@ def linkslides(folder):
 
 if __name__ == "__main__":
     
-    folder = "dictionaries"
-    header = "Dictionaries (3/26)"
+    folder = "classes-methods"
+    header = "Classes and Methods (4/2)"
     #unlinkslides(folder)
     #sys.exit()
     linkslides(folder)
