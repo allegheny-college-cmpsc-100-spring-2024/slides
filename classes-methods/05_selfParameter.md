@@ -19,3 +19,6 @@ class MyClass:
 
 obj = MyClass(5)
 obj.print_x()  # Output: 5
+```
+
+[-> Constructor Method](/classes-methods/06_constructorMethod.md)

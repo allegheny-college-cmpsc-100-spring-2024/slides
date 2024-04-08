@@ -25,3 +25,6 @@ class Circle:
 circle = Circle(5)
 print("Area:", circle.area())  # Output: 78.5
 print("Perimeter:", circle.perimeter())  # Output: 31.4
+```
+
+[->  Vpython Classes](/classes-methods/09_VPythonClasses.md)

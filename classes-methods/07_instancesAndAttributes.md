@@ -21,3 +21,6 @@ car2 = Car("Honda", "Accord")
 
 print(car1.make)  # Output: Toyota
 print(car2.model)  # Output: Accord
+```
+
+[-> Other Methods](/classes-methods/08_otherMethods.md)

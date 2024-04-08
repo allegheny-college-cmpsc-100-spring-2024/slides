@@ -19,3 +19,6 @@ In today's Discord thread, see if you can guess the answers to any of the follow
 - What is the default size of a sphere? 
 - Which piece of code includes the class definition? How does Python know a class's name and arguments?
 - Which piece of code defines the classes constructor method? What do you think a constructor method does? 
+
+
+[-> Classes Andmethods](/classes-methods/02_classesAndMethods.md)

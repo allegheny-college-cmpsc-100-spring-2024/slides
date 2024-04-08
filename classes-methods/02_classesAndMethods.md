@@ -4,3 +4,6 @@ Classes in Python allow you to define your own data types and organize related f
 
 **Example:** 
 Imagine you're building a game. You can create a `Player` class with methods like `move()` and `attack()`. Each player object can have its own properties like health and position, managed by these methods.
+
+
+[-> Why Classes](/classes-methods/03_whyClasses.md)

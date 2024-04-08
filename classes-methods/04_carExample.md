@@ -13,3 +13,5 @@ class Car:
 This code defines a class named Car. It has a constructor method __init__() that initializes the make, model, and year attributes of the car object. The display_info() method prints information about the car's make, model, and year when called.
 
 [See it on Trinket](https://trinket.io/python/2b0b73f09e)
+
+[-> Self Parameter](/classes-methods/05_selfParameter.md)

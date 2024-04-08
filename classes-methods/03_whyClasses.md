@@ -9,3 +9,6 @@ Classes offer several advantages over regular functions:
 3. **Inheritance:** Classes support inheritance, allowing you to create new classes based on existing ones, saving time and effort.
 
 4. **Modularity:** Classes facilitate modular programming, making it easier to maintain and extend your codebase.
+
+
+[-> Car Example](/classes-methods/04_carExample.md)

@@ -18,3 +18,6 @@ class Car:
 
 car1 = Car("Toyota", "Camry")
 car2 = Car("Honda", "Accord")
+```
+
+[-> Instances and Attributes](/classes-methods/07_instancesAndAttributes.md)

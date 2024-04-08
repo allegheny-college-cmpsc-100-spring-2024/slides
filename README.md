@@ -1,4 +1,19 @@
 # Lecture Content
+
+
+## Classes and Methods (4/9) 
+
+1. [Welcome Activity](/classes-methods/01_welcomeActivity.md)
+2. [Classes and Methods](/classes-methods/02_classesAndMethods.md)
+3. [Why Classes](/classes-methods/03_whyClasses.md)
+4. [Car Example](/classes-methods/04_carExample.md)
+5. [Self Parameter](/classes-methods/05_selfParameter.md)
+6. [Constructor Method](/classes-methods/06_constructorMethod.md)
+7. [Instances and Attributes](/classes-methods/07_instancesAndAttributes.md)
+8. [Other Methods](/classes-methods/08_otherMethods.md)
+9. [Vpython Classes](/classes-methods/09_VPythonClasses.md)
+10. [Stick Figure Example](/classes-methods/10_stickFigureExample.md)
+
 ## Dictionaries Cont'd (3/28)
 
 CLASS DEMO: [Robots with List of Dictionaries](https://trinket.io/glowscript/7238ce5702)
@@ -172,15 +187,3 @@ Additional Resource: [Getting Started with Python on trinket.io](https://docs.tr
 8.  [Trinket](/about-100/08_trinket.md)
 9.  [Markdown](/about-100/09_markdown.md)
 10. [Laptop](/about-100/10_laptop.md)
-## Classes and Methods (4/2) 
-
-1. [Welcome Activity](/classes-methods/01_welcomeActivity.md)
-2. [Classes Andmethods](/classes-methods/02_classesAndMethods.md)
-3. [Why Classes](/classes-methods/03_whyClasses.md)
-4. [Car Example](/classes-methods/04_carExample.md)
-5. [Self Parameter](/classes-methods/05_selfParameter.md)
-6. [Constructor Method](/classes-methods/06_constructorMethod.md)
-7. [Instances Andattributes](/classes-methods/07_instancesAndAttributes.md)
-8. [Other Methods](/classes-methods/08_otherMethods.md)
-9. [ Vpythonclasses](/classes-methods/09_VPythonClasses.md)
-10. [Stick Figureexample](/classes-methods/10_stickFigureExample.md)
