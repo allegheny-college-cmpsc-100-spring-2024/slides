@@ -21,4 +21,4 @@ In today's Discord thread, see if you can guess the answers to any of the follow
 - Which piece of code defines the classes constructor method? What do you think a constructor method does? 
 
 
-[-> Classes Andmethods](/classes-methods/02_classesAndMethods.md)
+[-> Classes and Methods](/classes-methods/02_classesAndMethods.md)
