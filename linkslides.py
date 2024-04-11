@@ -89,8 +89,8 @@ def linkslides(folder):
 
 if __name__ == "__main__":
     
-    folder = "classes-methods"
-    header = "Classes and Methods (4/2)"
+    folder = "teamwork"
+    header = "Teanwork: Branches, Pull Requests, and Merges (4/11)"
     #unlinkslides(folder)
     #sys.exit()
     linkslides(folder)
