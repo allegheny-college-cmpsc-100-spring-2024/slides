@@ -8,6 +8,8 @@
 4. [Merges](/teamwork/04_merges.md)
 5. [Merge-conflicts](/teamwork/05_merge-conflicts.md)
 
+CLASS DEMO: [Earth Class](https://trinket.io/glowscript/0eb31c8535)
+
 ## Classes and Methods (4/9) 
 
 1. [Welcome Activity](/classes-methods/01_welcomeActivity.md)
