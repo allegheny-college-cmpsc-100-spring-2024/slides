@@ -21,6 +21,8 @@
 9. [Vpython Classes](/classes-methods/09_VPythonClasses.md)
 10. [Stick Figure Example](/classes-methods/10_stickFigureExample.md)
 
+CLASS DEMO: [String Manipulation with Classes](https://trinket.io/python/fd3178ad8b)
+
 ## Dictionaries Cont'd (3/28)
 
 CLASS DEMO: [Robots with List of Dictionaries](https://trinket.io/glowscript/7238ce5702)
