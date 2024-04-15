@@ -1,5 +1,14 @@
 # Lecture Content
 
+## Mouse Interaction: Mini Lecture (4/16)
+
+- [Mouse Event example](https://trinket.io/glowscript/3d171c9d94)
+- [`scene.pick` example with nesting](https://trinket.io/glowscript/64c8cf0d5d)
+- [Advanced mouse pick example](https://www.glowscript.org/#/user/GlowScriptDemos/folder/Examples/program/MousePicking-VPython/edit)
+
+> [!TIP]
+> A great way to do independent research is looking at VPython examples [like these](https://www.glowscript.org/#/user/GlowScriptDemos/folder/Examples/) and figuring out how the code works by experimenting with it. 
+
 ## Teanwork: Branches, Pull Requests, and Merges (4/11) 
 
 1. [Teamwork](/teamwork/01_teamwork.md)
