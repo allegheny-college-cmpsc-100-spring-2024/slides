@@ -9,7 +9,7 @@
 > [!TIP]
 > A great way to do independent research is looking at VPython examples [like these](https://www.glowscript.org/#/user/GlowScriptDemos/folder/Examples/) and figuring out how the code works by experimenting with it. 
 
-## Teanwork: Branches, Pull Requests, and Merges (4/11) 
+## Teamwork: Branches, Pull Requests, and Merges (4/11) 
 
 1. [Teamwork](/teamwork/01_teamwork.md)
 2. [Branches](/teamwork/02_branches.md)
