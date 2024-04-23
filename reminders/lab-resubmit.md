@@ -1,7 +1,7 @@
 # Lab Resubmission
 
 You can resubmit individual labs (except the final project) for two weeks after receiving your grade.
-The 3D Canvas Lab resubmission deadline is Tuesday, April 2. 
+The Pastiche Animation resubmission deadline is May 5. 
 
 **You can find your initial lab grade in your gradebook [here](https://classroom.github.com/a/7dLK4j3-).**
 
