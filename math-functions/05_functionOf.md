@@ -1,6 +1,6 @@
 # "A Function Of"
 
-One one variable is **a funciton of** another variable, that means we use the first variable to calculate the second. 
+When one variable is **a funciton of** another variable, that means we use the first variable to calculate the second. 
 
 <img src = "image.png" width = "550px" />
 
